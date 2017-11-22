@@ -10,6 +10,7 @@ namespace AppConsol
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Poruka");
         }
     }
 }
