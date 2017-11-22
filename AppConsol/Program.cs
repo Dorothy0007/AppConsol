@@ -29,6 +29,7 @@ namespace AppConsol
             Console.ReadKey();
         }
 
+        //crazy banana
         public static double KvadratniKorijen(double broj)
         {
             return Math.Sqrt(broj);
