@@ -10,6 +10,12 @@ namespace AppConsol
     {
         static void Main(string[] args)
         {
+
+        }
+
+        public static double KvadratniKorijen(double broj)
+        {
+            return Math.Sqrt(broj);
         }
     }
 }
