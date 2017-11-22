@@ -11,6 +11,7 @@ namespace AppConsol
         static void Main(string[] args)
         {
             Console.WriteLine("Poruka");
+            Console.WriteLine("Message");
             string unos = Console.ReadLine();
             try
             {
