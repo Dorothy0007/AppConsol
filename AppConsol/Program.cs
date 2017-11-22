@@ -13,6 +13,8 @@ namespace AppConsol
             Console.WriteLine("Poruka");
             Console.WriteLine("Message");
             Console.WriteLine("Werbung");
+
+            Console.WriteLine("Upiši neki broj za koji želiš kvadratni korijen.");
             string unos = Console.ReadLine();
             try
             {
