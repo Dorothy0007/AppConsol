@@ -10,6 +10,7 @@ namespace AppConsol
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Poruka");
             string unos = Console.ReadLine();
             try
             {
@@ -26,6 +27,7 @@ namespace AppConsol
         public static double KvadratniKorijen(double broj)
         {
             return Math.Sqrt(broj);
+
         }
     }
 }
